@@ -1,0 +1,38 @@
+sudo apt-get install git
+git clone http://github.com/ndevilla/iniparser.git
+clone https://github.com/zaterov/test1
+git clone https://github.com/zaterov/test1
+mann git
+man  git
+git-commit
+man  git
+git git-commit
+grep -iA4 git ~/Desktop/asspords 
+git help all
+git help --all
+git help commit
+git help init
+git config --global core.editor vim
+git add
+git add .
+git commit
+git push
+git log
+git log | o
+git log HEAD~ HEAD
+git log HEAD~1 HEAD
+git log HEAD~2 HEAD
+mkdir Brigitte
+cd Brigitte/
+cd Brigitte/
+cd Brigitte/
+git init
+git ad README.md
+git add README.md
+git commit -m "first commit"
+git config --global user.email vctr31161@yahoo.com
+git config user.name "Emil Zaterov"
+git commit amend --reset-author
+git commit --amend --reset-author
+git remote add origin https://github.com/zaterov/Brig1.git
+git push -u origin master
